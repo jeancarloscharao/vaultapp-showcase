@@ -2,6 +2,8 @@
 
 O **Vault App** é uma aplicação web desenvolvida para armazenamento seguro de credenciais, utilizando criptografia avançada e arquitetura focada em privacidade e proteção de dados.
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/CCNBR6XOWr0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CCNBR6XOWr0)
+
 A plataforma combina uma interface simples com um backend robusto baseado em Laravel e Filament, permitindo que usuários gerenciem informações sensíveis com segurança.
 
 ---
